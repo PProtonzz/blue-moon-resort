@@ -102,11 +102,11 @@ const UserInterface = () => {
           <p className="text-blue-200/50 uppercase tracking-[0.4em] text-[9px] sm:text-[10px] mb-5 font-semibold">
             A New Era of Luxury is Arriving in Your Amravati
           </p>
-          <div className="flex flex-col gap-0 mb-8">
-            <h1 className="text-6xl sm:text-8xl md:text-[8.5rem] font-bold text-transparent bg-clip-text bg-gradient-to-b from-white via-white/80 to-blue-400 tracking-tight leading-none text-glow drop-shadow-[0_10px_30px_rgba(37,99,235,0.3)]">
+          <div className="flex flex-col gap-0 mb-10">
+            <h1 className="text-6xl sm:text-8xl md:text-[9rem] font-bold text-transparent bg-clip-text bg-gradient-to-b from-white via-white/80 to-blue-400 tracking-tight leading-none text-glow drop-shadow-[0_10px_30px_rgba(37,99,235,0.3)]">
               Blue Moon
             </h1>
-            <h1 className="text-4xl sm:text-6xl md:text-[5.5rem] font-light text-blue-100/70 tracking-[0.15em] uppercase leading-none mt-4 drop-shadow-md">
+            <h1 className="text-4xl sm:text-6xl md:text-[5rem] font-light text-blue-100/70 tracking-[0.15em] uppercase leading-none mt-2 drop-shadow-md italic">
               Resort
             </h1>
           </div>
